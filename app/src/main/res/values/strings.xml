@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+    <string name="button_reset">Reset</string>
+    <string name="gyro_x">Gyro X</string>
+    <string name="gyro_y">Gyro Y</string>
+    <string name="gyro_z">Gyro Z</string>
+    <string name="roll">Roll</string>
+    <string name="pitch">Pitch</string>
+    <string name="yaw">Yaw</string>
+</resources>
