@@ -4,6 +4,14 @@
     <string name="gyro_x">Gyro X</string>
     <string name="gyro_y">Gyro Y</string>
     <string name="gyro_z">Gyro Z</string>
+    <string name="accel_x">Accel X</string>
+    <string name="accel_y">Accel Y</string>
+    <string name="accel_z">Accel Z</string>
+    <string name="accel_module">Accel</string>
+    <string name="mag_x">Mag X</string>
+    <string name="mag_y">Mag Y</string>
+    <string name="mag_z">Mag Z</string>
+    <string name="mag_module">Mag</string>
     <string name="roll">Roll</string>
     <string name="pitch">Pitch</string>
     <string name="yaw">Yaw</string>
